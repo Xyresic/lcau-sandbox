@@ -24,6 +24,6 @@ for file in os.listdir(directory):
     cities |= set(places.address_strings)
     print(filename)
 
-with open('cities_raw.txt', 'w') as f:
+with open('cities_raw.txt', 'a') as f:
     for city in cities:
         f.write(city + '\n')
