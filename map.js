@@ -10,3 +10,5 @@ L.circle([51.508, -0.11], {
     fillOpacity: 1,
     radius: 100
 }).addTo(map);
+
+let locations = []
