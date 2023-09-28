@@ -9,7 +9,7 @@ for (let location of locations) {
         color: 'red',
         fillColor: 'red',
         fillOpacity: 1,
-        radius: 100
+        radius: 1000
     }).addTo(map);
 
     circle.bindPopup(location[2]);

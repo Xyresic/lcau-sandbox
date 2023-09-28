@@ -47,6 +47,7 @@ Beacon, New York, United States of America
 Beaver, Pennsylvania, United States of America
 Bedford, England, United Kingdom
 Beijing, Beijing, People's Republic of China
+Beirut, Lebanon
 Bell, California, United States of America
 Bellport, New York, United States of America
 Belmont, California, United States of America
