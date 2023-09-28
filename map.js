@@ -5,10 +5,12 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 for (let location of locations) {
-    L.circle(location, {
+    circle = L.circle(location.slice(0, 2), {
         color: 'red',
         fillColor: 'red',
         fillOpacity: 1,
         radius: 100
     }).addTo(map);
+
+    circle.bindPopup(location[2]);
 }

@@ -8,7 +8,7 @@ geocoder = RateLimiter(geolocator.geocode, min_delay_seconds=2, max_retries=5)
 
 with open('cities_raw.txt', 'r') as f:
     cities = [c.strip() for c in f.readlines()]
-    locations = [(l.latitude, l.longitude) for l in [geocoder(c) for c in cities] if l is not None]
+    locations = [(l[0].latitude, l[0].longitude, l[1]) for l in [(geocoder(c), c) for c in cities] if l[0] is not None]
 
 with open('serialized.js', 'w') as f:
-    f.write(f'let locations = [{", ".join([f"[{lat}, {long}]" for lat, long in locations])}];')
+    f.write(f'let locations = [{", ".join([f"[{lat}, {long}, `{city}`]" for lat, long, city in locations])}];')
