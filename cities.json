@@ -107,9 +107,9 @@
   },
   "Arlington, Texas, United States of America": {
     "docs": [
+      "188_Housing+.pdf",
       "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "188_Housing+.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 32.7355816,
     "long": -97.1071186
@@ -154,8 +154,8 @@
   },
   "Atlanta, Georgia, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "24_InfrastructuralMonument.pdf",
       "46_InfiniteSuburbiaBook.pdf",
       "4_MethodforGaugingUsageOpportunitiesforPartiallyAutomatedVehicles.pdf"
     ],
@@ -178,11 +178,11 @@
   },
   "Austin, Texas, United States of America": {
     "docs": [
-      "47_Wildfires.txt",
-      "46_InfiniteSuburbiaBook.pdf",
+      "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
       "23_ScalingInfrastructure.pdf",
-      "76_BeyondReconstructionOaxaca.pdf",
-      "21_COMMITMENTSToActionSustainableWaterFuture.pdf"
+      "46_InfiniteSuburbiaBook.pdf",
+      "47_Wildfires.txt",
+      "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 30.2711286,
     "long": -97.7436995
@@ -217,12 +217,12 @@
   },
   "Baltimore, Maryland, United States of America": {
     "docs": [
+      "125_BuildingAmericasCareInfrastructure.pdf",
+      "188_Housing+.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
       "24_InfrastructuralMonument.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "125_BuildingAmericasCareInfrastructure.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "188_Housing+.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 39.2908816,
     "long": -76.610759
@@ -247,8 +247,8 @@
   },
   "Barker, New York, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "39_ConstructedEcologies.pdf"
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 43.3276844,
     "long": -78.5547563
@@ -262,8 +262,8 @@
   },
   "Bath, New York, United States of America": {
     "docs": [
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "143_MinimizingEmbodiedEnergyofReinforced ConcreteFloorSystems.pdf"
+      "143_MinimizingEmbodiedEnergyofReinforced ConcreteFloorSystems.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
     ],
     "lat": 42.3370164,
     "long": -77.3177577
@@ -291,23 +291,23 @@
   },
   "Beijing, Beijing, People's Republic of China": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
       "110_AStudyofTransformationPreservationDemolitionofHeritageinUkraineCapital.pdf",
-      "183_ParametricWaffleSlabsOptimalGeometry.pdf",
       "121_ImplementationChallengesofStateLedRedevelopmentinShrinkingCities.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
       "12_SensingLightsTransformingStreetLightsintoNetworkedUrbanKnowledgePlatform.pdf",
+      "183_ParametricWaffleSlabsOptimalGeometry.pdf",
       "184_Housing+.pdf",
-      "188_Housing+.pdf"
+      "188_Housing+.pdf",
+      "24_InfrastructuralMonument.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 39.9057136,
     "long": 116.3912972
   },
   "Beirut, Lebanon": {
     "docs": [
-      "118_BeirutCommunityStreets",
-      "116_BeirutPortFutures"
+      "116_BeirutPortFutures",
+      "118_BeirutCommunityStreets"
     ],
     "lat": 33.8959203,
     "long": 35.47843
@@ -342,20 +342,20 @@
   },
   "Berkeley, California, United States of America": {
     "docs": [
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "187_FutureOfSuburbia.pdf"
+      "187_FutureOfSuburbia.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
     ],
     "lat": 37.8708393,
     "long": -122.272863
   },
   "Berlin, Berlin, Germany": {
     "docs": [
+      "153_DecommunizationByDesign.pdf",
+      "23_ScalingInfrastructure.pdf",
       "24_InfrastructuralMonument.pdf",
       "41_UrbanismAfterExtractionbook.pdf",
-      "97_IstanbulUrbanizedWaterwaysAndAirportSite.pdf",
-      "153_DecommunizationByDesign.pdf",
       "46_InfiniteSuburbiaBook.pdf",
-      "23_ScalingInfrastructure.pdf"
+      "97_IstanbulUrbanizedWaterwaysAndAirportSite.pdf"
     ],
     "lat": 52.5103817,
     "long": 13.4349112
@@ -383,8 +383,8 @@
   },
   "Birmingham, England, United Kingdom": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 52.4796992,
     "long": -1.9026911
@@ -440,8 +440,8 @@
   },
   "Bogot\u00e1, Bogot\u00e1, Colombia": {
     "docs": [
-      "31_UrbanResilienceforLowIncomeHousingEnterprisesColombia-Report.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "31_UrbanResilienceforLowIncomeHousingEnterprisesColombia-Report.pdf",
       "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 4.6529539,
@@ -456,21 +456,21 @@
   },
   "Boston, Massachusetts, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "34_TheorizingTheResilienceDistrict-DesignBasedDecisionMakingforCoastalClimateChangeAdaptation.pdf",
-      "61_CitiesBySea.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "72_RetrofittingBusinessSuburbiaBostonOfficeParks.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
       "12_SensingLightsTransformingStreetLightsintoNetworkedUrbanKnowledgePlatform.pdf",
-      "53_DevelopmentOfUrbanWorkerPersonas.pdf",
-      "23_ScalingInfrastructure.pdf",
-      "76_BeyondReconstructionOaxaca.pdf",
+      "130_NonprofitCooperativeHousingForAll.pdf",
       "185_DigitalUrbanism.pdf",
       "188_Housing+.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "23_ScalingInfrastructure.pdf",
+      "24_InfrastructuralMonument.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "34_TheorizingTheResilienceDistrict-DesignBasedDecisionMakingforCoastalClimateChangeAdaptation.pdf",
       "39_ConstructedEcologies.pdf",
-      "130_NonprofitCooperativeHousingForAll.pdf"
+      "46_InfiniteSuburbiaBook.pdf",
+      "53_DevelopmentOfUrbanWorkerPersonas.pdf",
+      "61_CitiesBySea.pdf",
+      "72_RetrofittingBusinessSuburbiaBostonOfficeParks.pdf",
+      "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 42.3554334,
     "long": -71.060511
@@ -540,8 +540,8 @@
   },
   "Brisbane, Queensland, Australia": {
     "docs": [
-      "106_30MinuteCityPolycentricUrbanismMoretonQueenslandAustralia-WorkshopReport.pdf",
       "106_30MinuteCityPolycentricUrbanismMoretonQueenslandAustralia-StudioReport.pdf",
+      "106_30MinuteCityPolycentricUrbanismMoretonQueenslandAustralia-WorkshopReport.pdf",
       "188_Housing+.pdf",
       "46_InfiniteSuburbiaBook.pdf"
     ],
@@ -564,17 +564,17 @@
   },
   "Brooklyn, New York, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
       "110_AStudyofTransformationPreservationDemolitionofHeritageinUkraineCapital.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
       "12_ReImaginingStreetlightInfrastructure.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
       "12_SensingLightsTransformingStreetLightsintoNetworkedUrbanKnowledgePlatform.pdf",
       "173_MaldenRiverWorks.pdf",
-      "2_NewMeadowlands.pdf",
       "184_Housing+.pdf",
-      "188_Housing+.pdf"
+      "188_Housing+.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "24_InfrastructuralMonument.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "2_NewMeadowlands.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 40.6526006,
     "long": -73.9497211
@@ -600,8 +600,8 @@
   },
   "Buffalo, New York, United States of America": {
     "docs": [
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "110_AStudyofTransformationPreservationDemolitionofHeritageinUkraineCapital.pdf"
+      "110_AStudyofTransformationPreservationDemolitionofHeritageinUkraineCapital.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
     ],
     "lat": 42.8867166,
     "long": -78.8783922
@@ -615,8 +615,8 @@
   },
   "Burlington, Ontario, Canada": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 43.3248924,
     "long": -79.7966835
@@ -630,8 +630,8 @@
   },
   "Caboolture, Queensland, Australia": {
     "docs": [
-      "106_30MinuteCityPolycentricUrbanismMoretonQueenslandAustralia-WorkshopReport.pdf",
-      "106_30MinuteCityPolycentricUrbanismMoretonQueenslandAustralia-StudioReport.pdf"
+      "106_30MinuteCityPolycentricUrbanismMoretonQueenslandAustralia-StudioReport.pdf",
+      "106_30MinuteCityPolycentricUrbanismMoretonQueenslandAustralia-WorkshopReport.pdf"
     ],
     "lat": -27.0839336,
     "long": 152.9510863
@@ -662,19 +662,19 @@
   },
   "Cambridge, Massachusetts, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "34_TheorizingTheResilienceDistrict-DesignBasedDecisionMakingforCoastalClimateChangeAdaptation.pdf",
-      "97_IstanbulUrbanizedWaterwaysAndAirportSite.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "72_RetrofittingBusinessSuburbiaBostonOfficeParks.pdf",
-      "136_TheComplexSociologyofHomeownershipatPeripheralHousing.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
       "12_SensingLightsTransformingStreetLightsintoNetworkedUrbanKnowledgePlatform.pdf",
-      "53_DevelopmentOfUrbanWorkerPersonas.pdf",
-      "76_BeyondReconstructionOaxaca.pdf",
+      "136_TheComplexSociologyofHomeownershipatPeripheralHousing.pdf",
       "188_Housing+.pdf",
-      "39_ConstructedEcologies.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "24_InfrastructuralMonument.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "34_TheorizingTheResilienceDistrict-DesignBasedDecisionMakingforCoastalClimateChangeAdaptation.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
+      "53_DevelopmentOfUrbanWorkerPersonas.pdf",
+      "72_RetrofittingBusinessSuburbiaBostonOfficeParks.pdf",
+      "76_BeyondReconstructionOaxaca.pdf",
+      "97_IstanbulUrbanizedWaterwaysAndAirportSite.pdf"
     ],
     "lat": 42.3655767,
     "long": -71.1040018
@@ -763,8 +763,8 @@
   },
   "Cheltenham, Pennsylvania, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 40.0609445,
     "long": -75.0940625
@@ -806,15 +806,15 @@
   },
   "Chicago, Illinois, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "187_FutureOfSuburbia.pdf",
       "177_Planning&DesignForVoluntaryRelocationACaseStudyInThePamirMountains.pdf",
+      "187_FutureOfSuburbia.pdf",
+      "188_Housing+.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "23_ScalingInfrastructure.pdf",
-      "76_BeyondReconstructionOaxaca.pdf",
       "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
-      "188_Housing+.pdf"
+      "23_ScalingInfrastructure.pdf",
+      "24_InfrastructuralMonument.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
+      "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 41.8755616,
     "long": -87.6244212
@@ -851,9 +851,9 @@
     "docs": [
       "111_AConformanceandPerformancEvaluationofNeighborhoodAction Plans.pdf",
       "162_ DemolitionAfterDecline UnderstandingandExplainingDemolitionPatterns.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
       "7_TheDistributionofCapitalForms.pdf",
-      "90_PlanImplementationChallengesInAShrinkingCity.pdf",
-      "46_InfiniteSuburbiaBook.pdf"
+      "90_PlanImplementationChallengesInAShrinkingCity.pdf"
     ],
     "lat": 41.4996574,
     "long": -81.6936772
@@ -867,8 +867,8 @@
   },
   "Collingwood, Ontario, Canada": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "39_ConstructedEcologies.pdf"
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 44.5027226,
     "long": -80.2172379
@@ -1026,8 +1026,8 @@
   },
   "Curitiba, Paran\u00e1, Brazil": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "12_DeepLearningBasedVideoSystemParkingMeasurement.pdf"
+      "12_DeepLearningBasedVideoSystemParkingMeasurement.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": -25.4295963,
     "long": -49.2712724
@@ -1091,9 +1091,9 @@
   },
   "Davis, California, United States of America": {
     "docs": [
+      "186_ScalingInfrastructure.pdf",
       "195_ScalingInfrastructure.pdf",
       "23_ScalingInfrastructure.pdf",
-      "186_ScalingInfrastructure.pdf",
       "39_ConstructedEcologies.pdf"
     ],
     "lat": 38.5435526,
@@ -1116,8 +1116,8 @@
   "Delhi, Delhi, India": {
     "docs": [
       "177_Planning&DesignForVoluntaryRelocationACaseStudyInThePamirMountains.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "189_InterwovenPurposesElementsofIntelligentInfrastructure-Transcript.txt"
+      "189_InterwovenPurposesElementsofIntelligentInfrastructure-Transcript.txt",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 28.6326616,
     "long": 77.2358292
@@ -1140,9 +1140,9 @@
   "Detroit, Michigan, United States of America": {
     "docs": [
       "111_AConformanceandPerformancEvaluationofNeighborhoodAction Plans.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
+      "162_ DemolitionAfterDecline UnderstandingandExplainingDemolitionPatterns.pdf",
       "23_ScalingInfrastructure.pdf",
-      "162_ DemolitionAfterDecline UnderstandingandExplainingDemolitionPatterns.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 42.3315509,
     "long": -83.0466403
@@ -1310,10 +1310,10 @@
   },
   "Flint, Michigan, United States of America": {
     "docs": [
-      "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
       "111_AConformanceandPerformancEvaluationofNeighborhoodAction Plans.pdf",
-      "23_ScalingInfrastructure.pdf",
-      "162_ DemolitionAfterDecline UnderstandingandExplainingDemolitionPatterns.pdf"
+      "162_ DemolitionAfterDecline UnderstandingandExplainingDemolitionPatterns.pdf",
+      "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
+      "23_ScalingInfrastructure.pdf"
     ],
     "lat": 43.0161693,
     "long": -83.6900211
@@ -1481,9 +1481,9 @@
   },
   "Graham, Washington, United States of America": {
     "docs": [
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
       "46_InfiniteSuburbiaBook.pdf",
-      "7_TheDistributionofCapitalForms.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "7_TheDistributionofCapitalForms.pdf"
     ],
     "lat": 47.0395996,
     "long": -122.2785729
@@ -1504,9 +1504,9 @@
   },
   "Greene, New York, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 42.2628769,
     "long": -74.0878112
@@ -1575,8 +1575,8 @@
   "Hamburg, Hamburg, Germany": {
     "docs": [
       "177_Planning&DesignForVoluntaryRelocationACaseStudyInThePamirMountains.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "183_ShapeOptimizationOfChilledConcreteCeilings.pdf"
+      "183_ShapeOptimizationOfChilledConcreteCeilings.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 53.6530868,
     "long": 9.9304186
@@ -1604,8 +1604,8 @@
   },
   "Harris, Minnesota, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "39_ConstructedEcologies.pdf"
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 45.5862761,
     "long": -92.9745619
@@ -1624,8 +1624,8 @@
   },
   "Hempstead, New York, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 40.6736812,
     "long": -73.6190736
@@ -1674,21 +1674,21 @@
   },
   "Hong Kong, Hong Kong, People's Republic of China": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
       "184_Housing+.pdf",
       "188_Housing+.pdf",
-      "39_ConstructedEcologies.pdf"
+      "24_InfrastructuralMonument.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 22.2793278,
     "long": 114.1628131
   },
   "Houston, Texas, United States of America": {
     "docs": [
+      "173_MaldenRiverWorks.pdf",
       "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
       "46_InfiniteSuburbiaBook.pdf",
-      "59_DesignGuidelinesForUrbanStormwaterWetlands.pdf",
-      "173_MaldenRiverWorks.pdf"
+      "59_DesignGuidelinesForUrbanStormwaterWetlands.pdf"
     ],
     "lat": 29.7589382,
     "long": -95.3676974
@@ -1759,8 +1759,8 @@
   },
   "Ithaca, New York, United States of America": {
     "docs": [
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "150_ResidentOwnedResilienceClimateAdaptation.pdf"
+      "150_ResidentOwnedResilienceClimateAdaptation.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
     ],
     "lat": 42.4396039,
     "long": -76.4968019
@@ -1979,8 +1979,8 @@
   },
   "Lincoln, England, United Kingdom": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 53.2293545,
     "long": -0.5404819
@@ -1996,10 +1996,10 @@
   "Lisbon, Lisbon, Portugal": {
     "docs": [
       "107_MappingUrbanizationasanAnthropedogeneticProcess.pdf",
-      "97_IstanbulUrbanizedWaterwaysAndAirportSite.pdf",
+      "183_DynamicThermalPerformanceOfStructurallyOptimizedConcreteFloorSlabs.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
       "76_BeyondReconstructionOaxaca.pdf",
-      "183_DynamicThermalPerformanceOfStructurallyOptimizedConcreteFloorSlabs.pdf"
+      "97_IstanbulUrbanizedWaterwaysAndAirportSite.pdf"
     ],
     "lat": 38.7077507,
     "long": -9.1365919
@@ -2028,19 +2028,19 @@
   "London, England, United Kingdom": {
     "docs": [
       "187_FutureOfSuburbia.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "39_ConstructedEcologies.pdf"
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 51.4893335,
     "long": -0.14405508452768728
   },
   "Long Beach, California, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
+      "188_Housing+.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "188_Housing+.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 33.7690164,
     "long": -118.191604
@@ -2061,18 +2061,18 @@
   },
   "Los Angeles, California, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "140_APerfectStormDisastersandEvictions.pdf",
       "12_DeepLearningBasedVideoSystemParkingMeasurement.pdf",
-      "187_FutureOfSuburbia.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "140_APerfectStormDisastersandEvictions.pdf",
       "16_SustainableUseofTreesEmiratiNeighborhoodsAbuDhabi.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
+      "187_FutureOfSuburbia.pdf",
+      "188_Housing+.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "59_DesignGuidelinesForUrbanStormwaterWetlands.pdf",
-      "76_BeyondReconstructionOaxaca.pdf",
       "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
-      "188_Housing+.pdf"
+      "24_InfrastructuralMonument.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
+      "59_DesignGuidelinesForUrbanStormwaterWetlands.pdf",
+      "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 34.0536909,
     "long": -118.242766
@@ -2112,9 +2112,9 @@
   },
   "Malden, Massachusetts, United States of America": {
     "docs": [
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
       "46_InfiniteSuburbiaBook.pdf",
-      "76_BeyondReconstructionOaxaca.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 42.4250964,
     "long": -71.066163
@@ -2135,12 +2135,12 @@
   },
   "Manhattan, New York, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
       "177_Planning&DesignForVoluntaryRelocationACaseStudyInThePamirMountains.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
       "23_ScalingInfrastructure.pdf",
+      "24_InfrastructuralMonument.pdf",
       "2_NewMeadowlands.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
       "6_GSCommunityDevInvesting.pdf"
     ],
     "lat": 40.7896239,
@@ -2209,8 +2209,8 @@
   },
   "Melbourne, Victoria, Australia": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "39_ConstructedEcologies.pdf"
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": -37.8142454,
     "long": 144.9631732
@@ -2245,12 +2245,12 @@
   },
   "Mexico City, Mexico City, Mexico": {
     "docs": [
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "183_SuenosCon-About.txt",
-      "46_InfiniteSuburbiaBook.pdf",
-      "76_BeyondReconstructionOaxaca.pdf",
       "147_SuenosCon.txt",
-      "185_DigitalUrbanism.pdf"
+      "183_SuenosCon-About.txt",
+      "185_DigitalUrbanism.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
+      "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 19.32160295,
     "long": -99.18493018260631
@@ -2290,8 +2290,8 @@
   },
   "Minneapolis, Minnesota, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "39_ConstructedEcologies.pdf"
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 44.9772995,
     "long": -93.2654692
@@ -2349,11 +2349,11 @@
   },
   "Moscow, Moscow, Russia": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "110_AStudyofTransformationPreservationDemolitionofHeritageinUkraineCapital.pdf",
       "107_MappingUrbanizationasanAnthropedogeneticProcess.pdf",
+      "110_AStudyofTransformationPreservationDemolitionofHeritageinUkraineCapital.pdf",
       "153_DecommunizationByDesign.pdf",
       "177_Planning&DesignForVoluntaryRelocationACaseStudyInThePamirMountains.pdf",
+      "24_InfrastructuralMonument.pdf",
       "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 55.7504461,
@@ -2375,9 +2375,9 @@
   },
   "Mumbai, Maharashtra, India": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "38_HousingChitravadIndia.pdf",
       "105_AnalyzingRuralDrinkingWaterServices.pdf",
+      "38_HousingChitravadIndia.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
       "91_HabitationsVillagesGramPanchayatsLocalDrinkingWaterPlanningPuneDistrict.pdf"
     ],
     "lat": 18.9733536,
@@ -2478,50 +2478,50 @@
   },
   "New Orleans, Louisiana, United States of America": {
     "docs": [
-      "6_GSCommunityDevInvesting.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
+      "149_InHarmsWay.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
       "23_ScalingInfrastructure.pdf",
-      "149_InHarmsWay.pdf"
+      "46_InfiniteSuburbiaBook.pdf",
+      "6_GSCommunityDevInvesting.pdf"
     ],
     "lat": 29.9759983,
     "long": -90.0782127
   },
   "New Rochelle, New York, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 40.9115386,
     "long": -73.7826363
   },
   "New York City, New York, United States of America": {
     "docs": [
-      "111_AConformanceandPerformancEvaluationofNeighborhoodAction Plans.pdf",
-      "24_InfrastructuralMonument.pdf",
-      "2_NewMeadowlands.pdf",
-      "6_GSCommunityDevInvesting.pdf",
-      "143_MinimizingEmbodiedEnergyofReinforced ConcreteFloorSystems.pdf",
-      "130_NonprofitCooperativeHousingForAll.pdf",
-      "158_LowCarbonConcreteConstructionThePastPresentAndFutureOfConcreteDesignInIndia.pdf",
-      "12_SenseableCityPhillipsIdeationReport.pdf",
       "107_MappingUrbanizationasanAnthropedogeneticProcess.pdf",
-      "172_SpatialEquityinUSCitiesAnEvaluationandComparisonofEquityMappingTools.pdf",
-      "188_Housing+.pdf",
-      "39_ConstructedEcologies.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "59_DesignGuidelinesForUrbanStormwaterWetlands.pdf",
-      "23_ScalingInfrastructure.pdf",
-      "149_InHarmsWay.pdf",
       "110_AStudyofTransformationPreservationDemolitionofHeritageinUkraineCapital.pdf",
-      "8_AnticipatingInformality.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "90_PlanImplementationChallengesInAShrinkingCity.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "22_MetabolicWastebeltsforSuburbia.pdf",
+      "111_AConformanceandPerformancEvaluationofNeighborhoodAction Plans.pdf",
+      "12_SenseableCityPhillipsIdeationReport.pdf",
       "12_SensingLightsTransformingStreetLightsintoNetworkedUrbanKnowledgePlatform.pdf",
+      "130_NonprofitCooperativeHousingForAll.pdf",
+      "143_MinimizingEmbodiedEnergyofReinforced ConcreteFloorSystems.pdf",
+      "149_InHarmsWay.pdf",
       "151_CreatingActionWithDataMeasuringEquityInUrbanDevelopment.pdf",
-      "185_DigitalUrbanism.pdf"
+      "158_LowCarbonConcreteConstructionThePastPresentAndFutureOfConcreteDesignInIndia.pdf",
+      "172_SpatialEquityinUSCitiesAnEvaluationandComparisonofEquityMappingTools.pdf",
+      "185_DigitalUrbanism.pdf",
+      "188_Housing+.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "22_MetabolicWastebeltsforSuburbia.pdf",
+      "23_ScalingInfrastructure.pdf",
+      "24_InfrastructuralMonument.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "2_NewMeadowlands.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
+      "59_DesignGuidelinesForUrbanStormwaterWetlands.pdf",
+      "6_GSCommunityDevInvesting.pdf",
+      "8_AnticipatingInformality.pdf",
+      "90_PlanImplementationChallengesInAShrinkingCity.pdf"
     ],
     "lat": 40.7127281,
     "long": -74.0060152
@@ -2565,9 +2565,9 @@
   },
   "Newman, California, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 37.3139487,
     "long": -121.0204222
@@ -2588,9 +2588,9 @@
   },
   "Newton, Massachusetts, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
       "72_RetrofittingBusinessSuburbiaBostonOfficeParks.pdf"
     ],
     "lat": 42.3370414,
@@ -2605,8 +2605,8 @@
   },
   "Norfolk, Virginia, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 36.8448348,
     "long": -76.2863999
@@ -2648,11 +2648,11 @@
   },
   "Norton, Massachusetts, United States of America": {
     "docs": [
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
       "12_SensingLightsTransformingStreetLightsintoNetworkedUrbanKnowledgePlatform.pdf",
-      "39_ConstructedEcologies.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 41.9667666,
     "long": -71.1869939
@@ -2666,9 +2666,9 @@
   },
   "Oakland, California, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
+      "150_ResidentOwnedResilienceClimateAdaptation.pdf",
       "193_BrotherCanYouSpareSomeTimeSustainingProsperityAndSocialInclusionInAmericasMetropolitanRegions.pdf",
-      "150_ResidentOwnedResilienceClimateAdaptation.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 37.8044557,
     "long": -122.271356
@@ -2682,8 +2682,8 @@
   },
   "Oceanside, California, United States of America": {
     "docs": [
-      "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "21_COMMITMENTSToActionSustainableWaterFuture.pdf"
     ],
     "lat": 33.1958696,
     "long": -117.3794834
@@ -2730,9 +2730,9 @@
   },
   "Orange, California, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
+      "187_FutureOfSuburbia.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "187_FutureOfSuburbia.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 33.7500378,
     "long": -117.8704931
@@ -2780,8 +2780,8 @@
   },
   "Ottawa, Ontario, Canada": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 45.4208777,
     "long": -75.6901106
@@ -2795,10 +2795,10 @@
   },
   "Oxford, England, United Kingdom": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
       "39_ConstructedEcologies.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 51.7520131,
     "long": -1.2578499
@@ -2905,27 +2905,27 @@
   },
   "Philadelphia, Pennsylvania, United States of America": {
     "docs": [
-      "19_Coding Flux.pdf",
-      "111_AConformanceandPerformancEvaluationofNeighborhoodAction Plans.pdf",
       "110_AStudyofTransformationPreservationDemolitionofHeritageinUkraineCapital.pdf",
-      "24_InfrastructuralMonument.pdf",
+      "111_AConformanceandPerformancEvaluationofNeighborhoodAction Plans.pdf",
       "187_FutureOfSuburbia.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "53_DevelopmentOfUrbanWorkerPersonas.pdf",
+      "19_Coding Flux.pdf",
       "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
-      "78_UrbanizingBrownfieldsHowrahKolkata-WebSummary.txt",
-      "39_ConstructedEcologies.pdf"
+      "24_InfrastructuralMonument.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
+      "53_DevelopmentOfUrbanWorkerPersonas.pdf",
+      "78_UrbanizingBrownfieldsHowrahKolkata-WebSummary.txt"
     ],
     "lat": 39.9527237,
     "long": -75.1635262
   },
   "Phoenix, Arizona, United States of America": {
     "docs": [
-      "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
       "170_InnerLoopUrbanismPhoenixEdition.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "39_ConstructedEcologies.pdf"
+      "21_COMMITMENTSToActionSustainableWaterFuture.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 33.4484367,
     "long": -112.074141
@@ -2982,12 +2982,12 @@
   },
   "Portland, Oregon, United States of America": {
     "docs": [
-      "73_NextGenerationSuburbs.pdf",
       "15_IslandTopographies.pdf",
+      "172_SpatialEquityinUSCitiesAnEvaluationandComparisonofEquityMappingTools.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
       "46_InfiniteSuburbiaBook.pdf",
-      "172_SpatialEquityinUSCitiesAnEvaluationandComparisonofEquityMappingTools.pdf",
-      "59_DesignGuidelinesForUrbanStormwaterWetlands.pdf"
+      "59_DesignGuidelinesForUrbanStormwaterWetlands.pdf",
+      "73_NextGenerationSuburbs.pdf"
     ],
     "lat": 45.5202471,
     "long": -122.674194
@@ -3252,8 +3252,8 @@
   },
   "Rotterdam, New York, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "23_ScalingInfrastructure.pdf"
+      "23_ScalingInfrastructure.pdf",
+      "24_InfrastructuralMonument.pdf"
     ],
     "lat": 42.786763,
     "long": -73.9720982
@@ -3316,16 +3316,16 @@
   },
   "San Diego, California, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 32.7174202,
     "long": -117.1627728
   },
   "San Francisco, California, United States of America": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
       "12_DeepLearningBasedVideoSystemParkingMeasurement.pdf",
+      "24_InfrastructuralMonument.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
       "46_InfiniteSuburbiaBook.pdf",
       "76_BeyondReconstructionOaxaca.pdf"
@@ -3431,11 +3431,11 @@
   },
   "Seattle, Washington, United States of America": {
     "docs": [
+      "151_CreatingActionWithDataMeasuringEquityInUrbanDevelopment.pdf",
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
       "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "53_DevelopmentOfUrbanWorkerPersonas.pdf",
-      "151_CreatingActionWithDataMeasuringEquityInUrbanDevelopment.pdf"
+      "53_DevelopmentOfUrbanWorkerPersonas.pdf"
     ],
     "lat": 47.6038321,
     "long": -122.330062
@@ -3485,20 +3485,20 @@
   },
   "Shanghai, Shanghai, People's Republic of China": {
     "docs": [
+      "184_Housing+.pdf",
+      "188_Housing+.pdf",
       "24_InfrastructuralMonument.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "184_Housing+.pdf",
-      "188_Housing+.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 31.2323437,
     "long": 121.4691024
   },
   "Shenzhen, Guangdong, People's Republic of China": {
     "docs": [
+      "121_ImplementationChallengesofStateLedRedevelopmentinShrinkingCities.pdf",
       "24_InfrastructuralMonument.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "121_ImplementationChallengesofStateLedRedevelopmentinShrinkingCities.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 22.5445741,
     "long": 114.0545429
@@ -3512,16 +3512,16 @@
   },
   "Singapore, Singapore, Singapore": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "187_FutureOfSuburbia.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "71_CouplingEnvironmentalAndSocioculturalSustainabilityForBetterDesign.pdf",
-      "177_Planning&DesignForVoluntaryRelocationACaseStudyInThePamirMountains.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
       "12_SensingLightsTransformingStreetLightsintoNetworkedUrbanKnowledgePlatform.pdf",
-      "76_BeyondReconstructionOaxaca.pdf",
+      "177_Planning&DesignForVoluntaryRelocationACaseStudyInThePamirMountains.pdf",
+      "187_FutureOfSuburbia.pdf",
       "188_Housing+.pdf",
-      "39_ConstructedEcologies.pdf"
+      "24_InfrastructuralMonument.pdf",
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf",
+      "71_CouplingEnvironmentalAndSocioculturalSustainabilityForBetterDesign.pdf",
+      "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 1.25420095,
     "long": 103.82266700104616
@@ -3550,8 +3550,8 @@
   "Somerville, Massachusetts, United States of America": {
     "docs": [
       "24_InfrastructuralMonument.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "34_TheorizingTheResilienceDistrict-DesignBasedDecisionMakingforCoastalClimateChangeAdaptation.pdf"
+      "34_TheorizingTheResilienceDistrict-DesignBasedDecisionMakingforCoastalClimateChangeAdaptation.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 42.3875968,
     "long": -71.0994968
@@ -3641,8 +3641,8 @@
   },
   "Stanford, California, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 37.427467,
     "long": -122.1702445
@@ -3656,10 +3656,10 @@
   },
   "Stockholm, New York, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
       "12_SensingLightsTransformingStreetLightsintoNetworkedUrbanKnowledgePlatform.pdf",
       "188_Housing+.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 44.7507485,
     "long": -74.8502288
@@ -3692,8 +3692,8 @@
   },
   "Sunnyvale, California, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "155_WhyDoPlannersOverlookManufacturedHousingandResidentOwnedCommunities.pdf"
+      "155_WhyDoPlannersOverlookManufacturedHousingandResidentOwnedCommunities.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 37.3688301,
     "long": -122.036349
@@ -3728,11 +3728,11 @@
   },
   "S\u00e3o Paulo, S\u00e3o Paulo, Brazil": {
     "docs": [
+      "184_Housing+.pdf",
+      "188_Housing+.pdf",
       "35_InnerCityAffordableHousingModelsSaoPauloBrazil.txt",
       "46_InfiniteSuburbiaBook.pdf",
-      "53_DevelopmentOfUrbanWorkerPersonas.pdf",
-      "184_Housing+.pdf",
-      "188_Housing+.pdf"
+      "53_DevelopmentOfUrbanWorkerPersonas.pdf"
     ],
     "lat": -23.5506507,
     "long": -46.6333824
@@ -3767,8 +3767,8 @@
   },
   "Taipei, Taipei, Taiwan": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
-      "159_AreManagedRetreatProgramsSuccesfulAndJust.pdf"
+      "159_AreManagedRetreatProgramsSuccesfulAndJust.pdf",
+      "24_InfrastructuralMonument.pdf"
     ],
     "lat": 25.047554,
     "long": 121.5170503
@@ -3839,16 +3839,16 @@
   },
   "Thousand Oaks, California, United States of America": {
     "docs": [
-      "76_BeyondReconstructionOaxaca.pdf",
-      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf"
+      "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
+      "76_BeyondReconstructionOaxaca.pdf"
     ],
     "lat": 34.1705609,
     "long": -118.8375937
   },
   "Tianjin, Tianjin, People's Republic of China": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "18_DevelopingtheLittoralGradient.txt"
+      "18_DevelopingtheLittoralGradient.txt",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 39.084802,
     "long": 117.1959904
@@ -3869,11 +3869,11 @@
   },
   "Tokyo, Tokyo, Japan": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
       "187_FutureOfSuburbia.pdf",
+      "23_ScalingInfrastructure.pdf",
+      "24_InfrastructuralMonument.pdf",
       "27_CityScope-InteractiveSimToolforUrbanDesign.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "23_ScalingInfrastructure.pdf"
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 35.6810912,
     "long": 139.7671861
@@ -3887,10 +3887,10 @@
   },
   "Toronto, Ontario, Canada": {
     "docs": [
-      "24_InfrastructuralMonument.pdf",
       "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
-      "46_InfiniteSuburbiaBook.pdf",
-      "39_ConstructedEcologies.pdf"
+      "24_InfrastructuralMonument.pdf",
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 43.6534817,
     "long": -79.3839347
@@ -3996,8 +3996,8 @@
   },
   "Veneto, Veneto, Italy": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "23_ScalingInfrastructure.pdf"
+      "23_ScalingInfrastructure.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 45.63339035,
     "long": 13.044918843680179
@@ -4011,8 +4011,8 @@
   },
   "Venice, Veneto, Italy": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "23_ScalingInfrastructure.pdf"
+      "23_ScalingInfrastructure.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 45.4371908,
     "long": 12.3345898
@@ -4045,8 +4045,8 @@
   },
   "Vienna, Vienna, Austria": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "39_ConstructedEcologies.pdf"
+      "39_ConstructedEcologies.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 48.1857192,
     "long": 16.4221587
@@ -4142,8 +4142,8 @@
   },
   "Westchester, Florida, United States of America": {
     "docs": [
-      "46_InfiniteSuburbiaBook.pdf",
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
+      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf",
+      "46_InfiniteSuburbiaBook.pdf"
     ],
     "lat": 25.7548224,
     "long": -80.3272741
@@ -4308,12 +4308,5 @@
     ],
     "lat": 50.406730350000004,
     "long": 30.444467767732654
-  },
-  "Zinfandel, California, United States of America": {
-    "docs": [
-      "191_RespondingToClimateChangeInNewYorkState_TheClimaidIntegratedAssessmentForEffectiveClimateChangeAdaptationInNewYorkState.pdf"
-    ],
-    "lat": 38.4826871,
-    "long": -122.4422017
   }
 }
