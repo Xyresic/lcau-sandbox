@@ -1,17 +1,11 @@
-Adelaide, South Australia, Australia
 Albany, New York, United States of America
 Albuquerque, New Mexico, United States of America
-Alford, Massachusetts, United States of America
-Alliance, Ohio, United States of America
 Allston, Massachusetts, United States of America
 Alphaville, São Paulo, Brazil
 Alton, Illinois, United States of America
 Amadeo, Cavite, Philippines
 Ambler, Pennsylvania, United States of America
-Amsterdam, North Holland, Netherlands
 Anaheim, California, United States of America
-Andalusia, Alabama, United States of America
-Annapolis, Maryland, United States of America
 Arcadia, California, United States of America
 Arlington, Texas, United States of America
 Arriaga, Chiapas, Mexico
@@ -21,12 +15,9 @@ Asunción, Paraguay
 Athens, Greece
 Atkins, Arkansas, United States of America
 Atlanta, Georgia, United States of America
-Auckland, California, United States of America
 Augusta, Georgia, United States of America
 Austin, Texas, United States of America
-Avalon, California, United States of America
 Bacoor, Cavite, Philippines
-Bailey, North Carolina, United States of America
 Bakersfield, California, United States of America
 Baltimore, Maryland, United States of America
 Bangkok, Bangkok, Thailand
@@ -36,40 +27,28 @@ Barueri, São Paulo, Brazil
 Bath, New York, United States of America
 Baton Rouge, Louisiana, United States of America
 Beacon, New York, United States of America
-Bedford, England, United Kingdom
 Beijing, Beijing, People's Republic of China
 Beirut, Lebanon
 Bellport, New York, United States of America
-Belmont, California, United States of America
-Belvedere, Queensland, Australia
+Belvedere, California, United States of America
 Bergen, New York, United States of America
-Berkeley, California, United States of America
 Berlin, Berlin, Germany
-Bethlehem, Pennsylvania, United States of America
+Bethlehem, Palestine
 Binghamton, New York, United States of America
 Binhai, Guangdong, People's Republic of China
 Birmingham, England, United Kingdom
 Bishkek, Bishkek, Kyrgyzstan
-Bishop, California, United States of America
-Blair, Nebraska, United States of America
-Bliss, Idaho, United States of America
 Bloomington, Minnesota, United States of America
-Blythe, California, United States of America
-Bogart, Georgia, United States of America
 Bogotá, Bogotá, Colombia
-Bolton, England, United Kingdom
 Boston, Massachusetts, United States of America
 Boulder, Colorado, United States of America
-Bourneville, Ohio, United States of America
-Bowden, South Australia, Australia
-Bowman, Quebec, Canada
+Bournville, England, United Kingdom
 Bradford, England, United Kingdom
 Bridgehampton, New York, United States of America
 Bridgeport, Connecticut, United States of America
 Brighton, New York, United States of America
 Brightwaters, New York, United States of America
 Brisbane, Queensland, Australia
-Brookfield, Wisconsin, United States of America
 Brookline, Massachusetts, United States of America
 Brooklyn, New York, United States of America
 Broome, New York, United States of America
@@ -77,10 +56,7 @@ Broomfield, Colorado, United States of America
 Brussels, Belgium
 Buffalo, New York, United States of America
 Burlingame, California, United States of America
-Burlington, Ontario, Canada
-Burnham, Illinois, United States of America
 Caboolture, Queensland, Australia
-Cagliari, Sardinia, Italy
 Calcutta, India
 Calderón, Puebla, Mexico
 Calgary, Alberta, Canada
@@ -90,33 +66,26 @@ Campinas, São Paulo, Brazil
 Canandaigua, New York, United States of America
 Candelaria, Calabarzon, Philippines
 Canton, China
-Cardiff, New South Wales, Australia
 Carlstadt, New Jersey, United States of America
 Carmona, Cavite, Philippines
 Carson, California, United States of America
 Cattaraugus, New York, United States of America
 Champlain, New York, United States of America
 Chelsea, Massachusetts, United States of America
-Cheltenham, Pennsylvania, United States of America
 Chemung, New York, United States of America
 Chenango, New York, United States of America
 Chengdu, Sichuan, People's Republic of China
 Chesapeake, Virginia, United States of America
-Chestnut, Illinois, United States of America
 Chicago, Illinois, United States of America
 Chilton, Wisconsin, United States of America
-Chisholm, Ontario, Canada
 Chittenango, New York, United States of America
-Cleary, Mississippi, United States of America
 Cleveland, Ohio, United States of America
 Coatzacoalcos, Veracruz, Mexico
 Collingwood, Ontario, Canada
-Collins, New York, United States of America
 Columbus, Ohio, United States of America
 Concord, Massachusetts, United States of America
 Coney Island, New York, United States of America
 Conklin, New York, United States of America
-Coombs, California, United States of America
 Cooperstown, New York, United States of America
 Copenhagen, Denmark
 Corning, New York, United States of America
@@ -124,19 +93,14 @@ Corona, California, United States of America
 Cortez, Colorado, United States of America
 Cortland, New York, United States of America
 Crawford, New York, United States of America
-Crewe, England, United Kingdom
 Crocus, Kentucky, United States of America
-Croft, England, United Kingdom
-Cropper, Kentucky, United States of America
-Crossland, Kentucky, United States of America
-Croton, New Jersey, United States of America
 Croydon, Pennsylvania, United States of America
 Cuernavaca, Morelos, Mexico
 Cupertino, California, United States of America
 Curitiba, Paraná, Brazil
 Cárdenas, Tabasco, Mexico
 Dallas, Texas, United States of America
-Damascus, Maryland, United States of America
+Damascus, Syria
 Dandenong, Victoria, Australia
 Daqing, Heilongjiang, People's Republic of China
 Darwin, Northern Territory, Australia
@@ -144,95 +108,60 @@ Dasmariñas, Cavite, Philippines
 Daund, Maharashtra, India
 Davis, California, United States of America
 Dearborn, Michigan, United States of America
-Debord, Kentucky, United States of America
 Delhi, Delhi, India
 Denver, Colorado, United States of America
-Derby, Kansas, United States of America
+Derby, England, United Kingdom
 Detroit, Michigan, United States of America
-Dowling, Michigan, United States of America
-Driscoll, Texas, United States of America
 Dublin, Ireland
-Dunbar, Scotland, United Kingdom
-Duncan, South Australia, Australia
-Dunlop, Scotland, United Kingdom
+Dunlop, Australia
 Dunwoody, Georgia, United States of America
-Durban, Catalonia, Spain
+Durban, South Africa
 Durham, North Carolina, United States of America
 East Boston, Massachusetts, United States of America
 East Cleveland, Ohio, United States of America
-Edgington, Illinois, United States of America
 Edina, Minnesota, United States of America
 Eldora, Iowa, United States of America
 Elmira, New York, United States of America
 Endicott, New York, United States of America
-Erie, Pennsylvania, United States of America
 Euclid, Ohio, United States of America
 Evanston, Illinois, United States of America
-Fairbanks, Alaska, United States of America
-Fairchild, Wisconsin, United States of America
 Fairfax, Virginia, United States of America
 Flanders, New York, United States of America
 Flint, Michigan, United States of America
 Florence, Tuscany, Italy
-Floyd, New York, United States of America
 Flushing, New York, United States of America
-Fontana, California, United States of America
-Fordham, Pennsylvania, United States of America
-Framingham, Massachusetts, United States of America
 Frankston, Victoria, Australia
 Fredonia, New York, United States of America
 Freeport, New York, United States of America
-Fresno, California, United States of America
-Fullerton, California, United States of America
 Funafuti, Funafuti, Tuvalu
-Future City, Illinois, United States of America
 Galveston, Texas, United States of America
-Geddes, New York, United States of America
-Genesee, Colorado, United States of America
 Geneva, Switzerland
 Gentilly, Louisiana, United States of America
 Georgetown, Washington, United States of America
-Ghent, New York, United States of America
 Gibraltar, Britain
-Glencoe, Illinois, United States of America
-Goldfields, Queensland, Australia
-Goshen, Indiana, United States of America
-Graham, Washington, United States of America
+Goshen, New York, United States of America
 Grand Rapids, Michigan, United States of America
-Greenbelt, Maryland, United States of America
-Greene, New York, United States of America
-Greenfield, Wisconsin, United States of America
 Greenpoint, New York, United States of America
-Greenwich, Connecticut, United States of America
-Greig, New York, United States of America
 Guangzhou, Guangdong, People's Republic of China
-Guilford, Connecticut, United States of America
 Hackensack, New Jersey, United States of America
 Hague, Netherlands
-Hahn, Texas, United States of America
 Hamburg, Hamburg, Germany
-Hamer, Idaho, United States of America
-Hamilton, Ontario, Canada
-Hamlin, New York, United States of America
 Harris, Minnesota, United States of America
 Havana, Cuba
 Hebron, Connecticut, United States of America
 Hempstead, New York, United States of America
 Herkimer, New York, United States of America
 Hialeah, Florida, United States of America
-Highland, California, United States of America
 Hillsboro, Oregon, United States of America
-Hoboken, New Jersey, United States of America
 Hollywood, California, United States of America
 Hong Kong, Hong Kong, People's Republic of China
 Houston, Texas, United States of America
 Hudson, New York, United States of America
 Huntington, New York, United States of America
-Iguchi, Tokyo, Japan
 Imus, Cavite, Philippines
 Indang, Cavite, Philippinesa
 Indianapolis, Indiana, United States of America
-Inverness, Scotland, United Kingdom
+Inverness, Illinois, United States of America
 Irvine, California, United States of America
 Irving, Texas, United States of America
 Islip, New York, United States of America
@@ -248,53 +177,34 @@ Johannesburg, South Africa
 Junagadh, Gujarat, India
 Kabul, Kabul, Afghanistan
 Kearny, New Jersey, United States of America
-Kendall, Florida, United States of America
 Kingsland, Georgia, United States of America
 Kingston, New York, United States of America
-Kingston, Ontario, Canada
 Kinshasa, Kinshasa, Democratic Republic of the Congo
-Kitchener, Ontario, Canada
-Knowlton, Quebec, Canada
-Knoxville, Tennessee, United States of America
 Kyiv, Kyiv, Ukraine
 Lagos, Lagos, Nigeria
-Lakewood, Colorado, United States of America
-Langlois, Oregon, United States of America
-Lanham, Maryland, United States of America
-Larsen, Wisconsin, United States of America
+Lakewood, California, United States of America
 Lathrop, California, United States of America
-Lefebvre, Quebec, Canada
-Leland, North Carolina, United States of America
-Levittown, Pennsylvania, United States of America
+Levittown, New York, United States of America
 Leyden, New York, United States of America
 Lima, Peru
-Lincoln, England, United Kingdom
 Lincoln, Nebraska, United States of America
 Lisbon, Lisbon, Portugal
 Little Ferry, New Jersey, United States of America
-Littlefield, Texas, United States of America
-Loftus, England, United Kingdom
 London, England, United Kingdom
 Long Beach, California, United States of America
 Long Island City, New York, United States of America
 Longmont, Colorado, United States of America
 Los Angeles, California, United States of America
 Lower Manhattan, New York, United States of America
-Lyme, Connecticut, United States of America
 Machado, California, United States of America
 Madison, Wisconsin, United States of America
 Madrid, Spain
-Malden, Massachusetts, United States of America
-Malone, New York, United States of America
-Mamaroneck, New York, United States of America
 Manhattan, New York, United States of America
 Manila, Philippines
 Maricopa, Arizona, United States of America
 Markham, Ontario, Canada
-Maryville, Tennessee, United States of America
 Marzahn, Berlin, Germany
 Massena, New York, United States of America
-Maywood, California, United States of America
 McKinney, Texas, United States of America
 Mechanicville, New York, United States of America
 Melbourne, Victoria, Australia
@@ -303,25 +213,19 @@ Menlo Park, California, United States of America
 Merced, California, United States of America
 Mesa, Arizona, United States of America
 Mexico City, Mexico City, Mexico
-Meyers, California, United States of America
 Miami, Florida, United States of America
 Milan, Italy
 Milwaukee, Wisconsin, United States of America
 Minatitlán, Veracruz, Mexico
 Minneapolis, Minnesota, United States of America
-Monroe, Louisiana, United States of America
 Montauk, New York, United States of America
 Montreal, Quebec, Canada
 Moonachie, New Jersey, United States of America
-Moore, England, United Kingdom
 Moreton Bay, Queensland, Australia
-Morrow, Georgia, United States of America
 Moscow, Moscow, Russia
 Mountain View, California, United States of America
 Mulberry, Florida, United States of America
 Mumbai, Maharashtra, India
-Mumford, Texas, United States of America
-Murray, Utah, United States of America
 Nagpur, Maharashtra, India
 Nanjing, Jiangsu, People's Republic of China
 Nantes, France
@@ -330,64 +234,46 @@ Nashville, Tennessee, United States of America
 Nassau, Bahamas
 Navi Mumbai, Maharashtra, India
 Needham, Massachusetts, United States of America
-New Brunswick, New Jersey, United States of America
+New Brunswick, Canada
 New Delhi, Delhi, India
-New Haven, Connecticut, United States of America
 New Market, Virginia, United States of America
 New Orleans, Louisiana, United States of America
 New Rochelle, New York, United States of America
 New York City, New York, United States of America
 Newark, New Jersey, United States of America
 Newburgh, New York, United States of America
-Newby, Illinois, United States of America
-Newfield, New York, United States of America
-Newhall, California, United States of America
-Newman, California, United States of America
-Newnham, England, United Kingdom
 Newtok, Alaska, United States of America
 Newton, Massachusetts, United States of America
 Niagara, New York, United States of America
 Norfolk, Virginia, United States of America
-Norske, Wisconsin, United States of America
 North Amityville, New York, United States of America
 North Arlington, New Jersey, United States of America
 North Chicago, Illinois, United States of America
-North Creek, Washington, United States of America
-Norton, Massachusetts, United States of America
 Nyvky, Kyiv, Ukraine
 Oakland, California, United States of America
-Oakville, Ontario, Canada
-Oceanside, California, United States of America
 Oildale, California, United States of America
-Olmsted, Illinois, United States of America
 Omaha, Nebraska, United States of America
 Oneida, New York, United States of America
 Onondaga, New York, United States of America
 Ontario, Canada
-Orange, California, United States of America
+Orange County, New York, United States of America
 Orlando, Florida, United States of America
 Ortega, Florida, United States of America
 Oslo, Norway
 Ostrom, California, United States of America
-Oswego, Illinois, United States of America
 Otis, Massachusetts, United States of America
 Ottawa, Ontario, Canada
-Owings, Maryland, United States of America
 Oxford, England, United Kingdom
 Palermo, California, United States of America
-Palgrave, Ontario, Canada
 Palm Springs, California, United States of America
 Palo Alto, California, United States of America
-Pampa, Texas, United States of America
 Panama City, Panama
 Panvel, Maharashtra, India
 Papillion, Nebraska, United States of America
 Paris, France
-Parkland, Washington, United States of America
-Parma, Ohio, United States of America
+Parma, Italy
 Pasadena, Texas, United States of America
 Patchogue, New York, United States of America
-Pentland, California, United States of America
 Perth, Australia
 Philadelphia, Pennsylvania, United States of America
 Phoenix, Arizona, United States of America
@@ -399,74 +285,53 @@ Port Fourchon, Louisiana, United States of America
 Port Jefferson, New York, United States of America
 Port Jervis, New York, United States of America
 Portland, Oregon, United States of America
-Potomac, Maryland, United States of America
 Poughkeepsie, New York, United States of America
-Pretoria, Georgia, United States of America
+Pretoria, South Africa
 Princeton, New Jersey, United States of America
 Pudong, Shanghai, People's Republic of China
 Puebla, Puebla, Mexico
 Pune, Maharashtra, India
-Putnam, Connecticut, United States of America
+Putnam County, New York, United States of America
 Quebec, Canada
 Queens, New York, United States of America
 Queensland, Australia
-Radford, Virginia, United States of America
 Raleigh, North Carolina, United States of America
 Ramapo, New York, United States of America
-Range, Oregon, United States of America
 Raritan, New Jersey, United States of America
-Reading, England, United Kingdom
-Redcliffe, Queensland, Australia
 Redlands, California, United States of America
 Redmond, Washington, United States of America
 Redondo Beach, California, United States of America
-Reese, Michigan, United States of America
 Reno, Nevada, United States of America
 Rensselaer, New York, United States of America
 Revere, Massachusetts, United States of America
-Reynolds, Georgia, United States of America
 Richmond, Virginia, United States of America
 Rio de Janeiro, Brazil
 Riverhead, New York, United States of America
-Riverside, California, United States of America
-Rochester, New York, United States of America
-Rockaway, New Jersey, United States of America
-Rockland, Massachusetts, United States of America
-Rogers, Arkansas, United States of America
+Riverside, Illinois, United States of America
+Rockaway, New York, United States of America
+Rockland County, New York, United States of America
 Rome, Italy
 Rosario, Calabarzon, Philippines
-Rosebank, New York, United States of America
-Rotterdam, New York, United States of America
+Rotterdam, Netherlands
 Roxbury, New York, United States of America
-Rusk, Texas, United States of America
 Rutherford, New Jersey, United States of America
-Saguenay, Quebec, Canada
 Salina Cruz, Oaxaca, Mexico
 Salinas, California, United States of America
 Salt Lake City, Utah, United States of America
-Samaria, Victoria, Australia
 San Diego, California, United States of America
 San Francisco, California, United States of America
 San Juan, Puerto Rico, United States of America
-Sanborn, New York, United States of America
-Sandringham, Victoria, Australia
 Santa Fe, New Mexico, United States of America
 Santiago, Chile
-Santos, São Paulo, Brazil
 Saugerties, New York, United States of America
 Savannah, Georgia, United States of America
 Sayville, New York, United States of America
 Schaumburg, Illinois, United States of America
 Schenectady, New York, United States of America
-Schneider, Indiana, United States of America
 Scottsdale, Arizona, United States of America
-Seaside, California, United States of America
 Seattle, Washington, United States of America
-Sebastopol, California, United States of America
 Secaucus, New Jersey, United States of America
-Seneca, South Carolina, United States of America
 Seoul, Seoul, South Korea
-Sewell, New Jersey, United States of America
 Shaker Heights, Ohio, United States of America
 Shanghai, Shanghai, People's Republic of China
 Shenzhen, Guangdong, People's Republic of China
@@ -474,29 +339,22 @@ Silang, Cavite, Philippines
 Singapore, Singapore, Singapore
 Skokie, Illinois, United States of America
 Soledad, California, United States of America
-Solomon, Arizona, United States of America
 Somerville, Massachusetts, United States of America
-Sorocaba, São Paulo, Brazil
-South Gate, California, United States of America
 South Hackensack, New Jersey, United States of America
 South Kearny, New Jersey, United States of America
 South Omaha, Nebraska, United States of America
 Southampton, New York, United States of America
-Spencer, Massachusetts, United States of America
 Spicer, Minnesota, United States of America
 Springfield, Massachusetts, United States of America
-St. Helena, California, United States of America
-St. Paul, Nebraska, United States of America
+St. Paul, Minnesota, United States of America
 St. Petersburg, Florida, United States of America
 Stanford, California, United States of America
 Stockbridge, Georgia, United States of America
 Stockholm, New York, United States of America
-Stratford, Ontario, Canada
+Stratford, England, United Kingdom
 Strathpine, Queensland, Australia
 Suffolk, Massachusetts, United States of America
-Sunderland, Massachusetts, United States of America
 Sunnyvale, California, United States of America
-Susquehanna, Pennsylvania, United States of America
 Suzhou, Jiangsu, People's Republic of China
 Sydney, New South Wales, Australia
 Syracuse, New York, United States of America
@@ -513,9 +371,7 @@ Tarragona, Catalonia, Spain
 Tehuantepec, Oaxaca, Mexico
 Tempe, Arizona, United States of America
 Teremky, Kyiv, Ukraine
-Teterboro, New Jersey, United States of America
 Thane, Maharashtra, India
-Thousand Oaks, California, United States of America
 Tianjin, Tianjin, People's Republic of China
 Tibidabo, Catalonia, Spain
 Tieli, Heilongjiang, People's Republic of China
@@ -523,61 +379,43 @@ Tokyo, Tokyo, Japan
 Tompkins, New York, United States of America
 Toronto, Ontario, Canada
 Trenton, New Jersey, United States of America
-Troy, Michigan, United States of America
+Troy, New York, United States of America
 Tucson, Arizona, United States of America
-Turin, Georgia, United States of America
-Turner, Maine, United States of America
 Tustin, California, United States of America
 Twisp, Washington, United States of America
-Upland, California, United States of America
 Utica, New York, United States of America
-Utopia, Florida, United States of America
-Valencia, New Mexico, United States of America
+Valencia, Spain
 Valldaura, Catalonia, Spain
 Vance, Alabama, United States of America
 Vancouver, British Columbia, Canada
 Veneto, Veneto, Italy
-Venezia, Veneto, Italy
 Venice, Veneto, Italy
 Veracruz, Veracruz, Mexico
 Versailles, France
-Victoria, British Columbia, Canada
 Vidal, California, United States of America
 Vienna, Vienna, Austria
 Wakefield, England, United Kingdom
 Walker, Michigan, United States of America
 Waltham, Massachusetts, United States of America
-Walton, Kentucky, United States of America
 Wanakena, New York, United States of America
-Warsaw, Indiana, United States of America
+Warsaw, New York, United States of America
 Washington Heights, New York, United States of America
 Wassaic, New York, United States of America
 Waterloo, Ontario, Canada
-Watertown, Massachusetts, United States of America
-Watts, California, United States of America
+Watertown, New York, United States of America
 Wellington, New Zealand
 West Islip, New York, United States of America
-Westchester, Florida, United States of America
+Westchester County, New York, United States of America
 Weston, Massachusetts, United States of America
 Westwood, Massachusetts, United States of America
-Whitefield, New Hampshire, United States of America
 Whitelaw, Victoria, Australia
 Wichita, Kansas, United States of America
 Williamsburg, New York, United States of America
-Wilson, North Carolina, United States of America
 Windsor, Ontario, Canada
-Wingham, Ontario, Canada
-Winnipeg, Manitoba, Canada
-Winton, California, United States of America
-Wolfe, Virginia, United States of America
-Woodland, California, United States of America
-Woodlawn, Maryland, United States of America
-Worcester, Massachusetts, United States of America
-Yates, New York, United States of America
+Woodlawn, New York, United States of America
 Yautepec, Morelos, Mexico
 Yonkers, New York, United States of America
 Youhao, Heilongjiang, People's Republic of China
 Youngstown, Ohio, United States of America
 Zaragoza, Puebla, Mexico
-Zentner, California, United States of America
 Zhuliany, Kyiv, Ukraine
